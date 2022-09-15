@@ -7,6 +7,7 @@ Exercises
 3. How would you move the food?
 4. Change the snake to respond to mouse clicks.
 """
+#Se anadieron los nombres de los modulos importados de la libreria
 
 from random import randrange
 from turtle import clear, update, ontimer, setup
